@@ -10,7 +10,7 @@ The objective of this project is to build and configure a small enterprise netwo
 
 ## Network Topology
 
-![Network Topology](Topology.png.png)
+![Network Topology](Topology.png)
 
 ---
 
